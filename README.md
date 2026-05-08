@@ -6,7 +6,7 @@
 
 ## 📊 Dashboard Preview
 
-![U.S. Airbnb Market Analysis Power BI Dashboard](POWERBI_AIRNBN.JPG)
+![U.S. Airbnb Market Analysis Power BI Dashboard](POWERBI%20AIRNBN.JPG)
 
 ---
 
